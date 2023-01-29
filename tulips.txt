@@ -19,6 +19,9 @@
    <p><img src="html1pictures/tulip2.gif" alt="tulip2" width="160 height="210" /></p>
    <p style:"font-style: #6F559D;">Hopefully, the reader will want to look into 
    the complete history of tulips.</p>
+
+   <p><img src="html1pictures/yellowtulips.gif" alt="yellowtulips" width="160" height="210" /></p>
+
    </body>
 
 </html>
